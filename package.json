@@ -24,7 +24,7 @@
     "jquery": "^3.4.0",
     "marked": "^0.7.0",
     "method-override": "latest",
-    "moment": "^2.19.3",
+    "moment": "^2.30.1",
     "mongoose": "^5.7.5",
     "morgan": "latest",
     "ms": "^2.0.0",
